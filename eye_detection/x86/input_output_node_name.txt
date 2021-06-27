@@ -1,0 +1,2 @@
+input  node is['conv2d_input']
+output node is['dense_1/Softmax']

@@ -1,0 +1,8 @@
+Note
+
+--Paste all images in this folder.
+--Make different folder naming each type if you want to calibirate for different types.
+--Once you run train_model.py it will create caliberation images folder with caliberation.txt
+--Use these both and paste in new caliberation_data folder.
+
+ 
