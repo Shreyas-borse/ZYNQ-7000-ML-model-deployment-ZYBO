@@ -5,4 +5,6 @@ Methodology to built ML model using dataset for deploying on FPGA
   - eye dectection and -- eye dtc
   
  For this we need to download Xilinx_DNNDK3.1 - https://www.xilinx.com/products/design-tools/ai-inference/ai-developer-hub.html#edge 
-  We need to paste models in xilinx dnndk and run dnnc for output in .elf
+  We need to paste models in xilinx dnndk and run dnnc for output in .elf format
+  
+  Check example Flower classsification for complete flow first. 
