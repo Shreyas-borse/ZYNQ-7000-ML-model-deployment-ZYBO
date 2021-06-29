@@ -1,5 +1,5 @@
 # ZYNQ-7000-ML-model-deployment-ZYBO
-Methodology to built ML model using dataset for deploying on FPGA
+Methodology to deploying ML models on Xilinx FPGAs using DNNDK
 -- This folder contains two datasets to .elf examples 
   - flower classification
   - eye dectection and -- eye dtc
